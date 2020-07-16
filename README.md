@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BuyTheFood
 
 To start your Phoenix server:
@@ -13,4 +12,4 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 # buy_the_food
 This application for planning purchases
->>>>>>> 9ea972607cffd6f918dff4d99b0490ad23076760
+
