@@ -21,6 +21,7 @@ defmodule BuyTheFoodWeb.Router do
     pipe_through :browser
 
     live "/", PageLive, :index
+    live "/search", SearchLive
   end
 
   # Other scopes may use custom stacks.

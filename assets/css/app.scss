@@ -89,3 +89,20 @@
 .alert:empty {
   display: none;
 }
+.store-item {
+  border-radius: 15px;
+  background:#726A95;
+  color: #fff;
+  margin: 2px;
+  padding: 5px;
+  display:inline-block;
+}
+.selected-item {
+  border-radius: 15px;
+  background:#87c287;
+  color: #fff;
+  margin: 2px;
+  padding: 5px;
+  /*display:inline-block;*/
+  display: flex;
+}
